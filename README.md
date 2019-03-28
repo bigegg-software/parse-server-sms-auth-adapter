@@ -1,0 +1,1 @@
+# parse-server-sms-auth-adapter
